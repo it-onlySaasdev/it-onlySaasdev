@@ -1,66 +1,66 @@
 <style>
-  /* Floating animation for Tech Stack section */
-  #tech-stack-container {
-    position: relative;
-  }
-  
-  .tech-floating-element {
-    position: absolute;
-    right: -20px;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 60px;
-    height: 60px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 50%;
+/* Floating animation for Tech Stack section */
+#tech-stack-container {
+  position: relative;
+}
+
+.tech-floating-element {
+  position: absolute;
+  right: -20px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 50%;
+  opacity: 0.1;
+  animation: float-right 3s ease-in-out infinite;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.tech-floating-element:nth-child(2) {
+  width: 40px;
+  height: 40px;
+  right: 30px;
+  top: 30%;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  animation-delay: 0.5s;
+  animation-duration: 3.5s;
+}
+
+.tech-floating-element:nth-child(3) {
+  width: 30px;
+  height: 30px;
+  right: -10px;
+  top: 70%;
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  animation-delay: 1s;
+  animation-duration: 4s;
+}
+
+@keyframes float-right {
+  0%, 100% {
+    transform: translateY(-50%) translateX(0) scale(1);
     opacity: 0.1;
-    animation: float-right 3s ease-in-out infinite;
-    z-index: 1;
-    pointer-events: none;
   }
-  
-  .tech-floating-element:nth-child(2) {
-    width: 40px;
-    height: 40px;
-    right: 30px;
-    top: 30%;
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    animation-delay: 0.5s;
-    animation-duration: 3.5s;
+  50% {
+    transform: translateY(-60%) translateX(-10px) scale(1.1);
+    opacity: 0.15;
   }
-  
-  .tech-floating-element:nth-child(3) {
-    width: 30px;
-    height: 30px;
-    right: -10px;
-    top: 70%;
-    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    animation-delay: 1s;
-    animation-duration: 4s;
-  }
-  
-  @keyframes float-right {
-    0%, 100% {
-      transform: translateY(-50%) translateX(0) scale(1);
-      opacity: 0.1;
-    }
-    50% {
-      transform: translateY(-60%) translateX(-10px) scale(1.1);
-      opacity: 0.15;
-    }
-  }
-  
-  /* Pulse animation for tech badges on hover */
-  .tech-badge {
-    transition: all 0.3s ease;
-    position: relative;
-    z-index: 2;
-  }
-  
-  .tech-badge:hover {
-    transform: translateY(-2px) scale(1.05);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  }
+}
+
+/* Pulse animation for tech badges on hover */
+.tech-badge {
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 2;
+}
+
+.tech-badge:hover {
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
 </style>
 
 <div align="center">
@@ -147,12 +147,12 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 - **CI/CD Pipelines** – Automated deployment workflows
 - **Documentation First** – Clear, comprehensive documentation
 
-## 📈 My Process
+## 📫 Let's Connect
 
-```mermaid
-graph LR
-    A[Discovery] --> B[Architecture Design]
-    B --> C[Development]
-    C --> D[Testing & Security]
-    D --> E[Deployment]
-    E --> F[Monitoring & Support]
+If you're looking for a developer who understands financial systems, builds secure scalable applications, and delivers results, let's talk about your project.
+
+**Response Time:** < 24 hours  
+**Availability:** Taking on new projects
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-tobi-a67199264)
