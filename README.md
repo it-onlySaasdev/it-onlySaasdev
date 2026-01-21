@@ -89,3 +89,13 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-tobi-a67199264)
+
+## 📈 My Process
+
+```mermaid
+graph LR
+    A[Discovery] --> B[Architecture Design]
+    B --> C[Development]
+    C --> D[Testing & Security]
+    D --> E[Deployment]
+    E --> F[Monitoring & Support]
