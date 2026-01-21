@@ -84,9 +84,6 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 - **Documentation First** – Clear, comprehensive documentation
 
 ## 📫 Let's Connect
-
-If you're looking for a developer who understands financial systems, builds secure scalable applications, and delivers results, let's talk about your project.
-
 **Response Time:** < 24 hours  
 **Availability:** Taking on new projects
 
