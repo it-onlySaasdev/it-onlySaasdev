@@ -15,7 +15,7 @@
 
 > *"Transforming complex business problems into elegant, scalable solutions"*
 
-I Build mainly **AI-powered SaaS platforms** and **financial technology solutions** with a focus on **security, scalability, and clean architecture**. With expertise spanning from Flask API development to WEB3 payment integration, I help businesses automate processes and build robust digital infrastructure.
+I Build mainly **AI-powered SaaS platforms** and **financial technology solutions** with a focus on **security, scalability, and clean architecture**. With expertise spanning from Flask API development to WEB3 payment integration, I help businesses automate processes and build MVP or robust digital infrastructure.
 
 ---
 
