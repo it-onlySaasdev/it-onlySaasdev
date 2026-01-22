@@ -66,18 +66,18 @@ I create mainly **AI-powered SaaS platforms** and **financial technology solutio
 
 ##  What I Deliver
 
-### Custom Solutions**
+### Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
 - **Payment Integration** – Stripe, PayPal, Crypto, and custom payment gateways
 - **Data Pipelines** – ETL processes, API integrations, and financial data aggregation
 
-### Security & Compliance**
+### Security & Compliance
 - **Bank-level security** for financial applications
 - **Secure authentication** (OAuth2, JWT)
 - **Data encryption** at rest and in transit
 
-### ⚡ Development Philosophy**
+### ⚡ Development Philosophy
 - **Clean Architecture** – SOLID principles, separation of concerns
 - **Test-Driven Development** – Comprehensive testing suites
 - **CI/CD Pipelines** – Automated deployment workflows
