@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+About Me
 
 > *"Transforming complex business problems into elegant, scalable solutions"*
 
@@ -38,24 +38,24 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 <span class="tech-badge">![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)</span>
 <span class="tech-badge">![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)</span>
 
-### ** WEB3 & Blockchain**
+###  WEB3 & Blockchain**
 <span class="tech-badge">![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)</span>
 <span class="tech-badge">![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)</span>
 <span class="tech-badge">![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)</span>
 <span class="tech-badge">![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)</span>
 
-### ** Frontend & UI/UX**
+###  Frontend & UI/UX**
 <span class="tech-badge">![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)</span>
 <span class="tech-badge">![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)</span>
 <span class="tech-badge">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</span>
 <span class="tech-badge">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)</span>
 
-### **🗄️ Database & Storage**
+###  Database & Storage**
 <span class="tech-badge">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)</span>
 <span class="tech-badge">![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)</span>
 <span class="tech-badge">![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)</span>
 
-### **☁️ DevOps & Cloud**
+### ☁️ DevOps & Cloud**
 <span class="tech-badge">![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</span>
 <span class="tech-badge">![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)</span>
 <span class="tech-badge">![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)</span>
