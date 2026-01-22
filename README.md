@@ -99,3 +99,11 @@ graph LR
     C --> D[Testing & Security]
     D --> E[Deployment]
     E --> F[Monitoring & Support]
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
