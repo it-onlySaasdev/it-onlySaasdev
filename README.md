@@ -24,16 +24,16 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 <div class="tech-floating-element"></div>
 <div class="tech-floating-element"></div>
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
-### ** AI & Machine Learning**
+### AI & Machine Learning**
 <span class="tech-badge">![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</span>
 <span class="tech-badge">![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)</span>
 <span class="tech-badge">![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)</span>
 <span class="tech-badge">![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)</span>
 <span class="tech-badge">![LangChain](https://img.shields.io/badge/LangChain-00C853?style=flat-square&logoColor=white)</span>
 
-### **⚡ Backend Development**
+### ⚡ Backend Development**
 <span class="tech-badge">![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)</span>
 <span class="tech-badge">![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)</span>
 <span class="tech-badge">![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)</span>
@@ -66,18 +66,18 @@ I Build mainly **AI-powered SaaS platforms** and **financial technology solution
 
 ##  What I Deliver
 
-### ** Custom Solutions**
+### Custom Solutions**
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
 - **Payment Integration** – Stripe, PayPal, Crypto, and custom payment gateways
 - **Data Pipelines** – ETL processes, API integrations, and financial data aggregation
 
-### ** Security & Compliance**
+### Security & Compliance**
 - **Bank-level security** for financial applications
 - **Secure authentication** (OAuth2, JWT)
 - **Data encryption** at rest and in transit
 
-### **⚡ Development Philosophy**
+### ⚡ Development Philosophy**
 - **Clean Architecture** – SOLID principles, separation of concerns
 - **Test-Driven Development** – Comprehensive testing suites
 - **CI/CD Pipelines** – Automated deployment workflows
