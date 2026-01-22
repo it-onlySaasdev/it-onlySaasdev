@@ -55,7 +55,7 @@ I create mainly **AI-powered SaaS platforms** and **financial technology solutio
 <span class="tech-badge">![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)</span>
 <span class="tech-badge">![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)</span>
 
-### ☁️ DevOps & Cloud**
+### ☁️ DevOps & Cloud
 <span class="tech-badge">![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</span>
 <span class="tech-badge">![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)</span>
 <span class="tech-badge">![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)</span>
