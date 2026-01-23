@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/it-onlySaasdev/it-onlySaasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 # Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
 
 [![Email](https://img.shields.io/badge/Email-idowu.tobi.saas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
@@ -131,6 +133,4 @@ graph TD
     J --> E
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/it-onlySaasdev/it-onlySaasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
