@@ -82,7 +82,7 @@ Frontend & UX
 
 ---
 
-## 🚀 What I Deliver
+##  What I Deliver
 
 Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
