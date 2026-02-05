@@ -18,7 +18,11 @@
 
 > *"Transforming complex business problems into simple, scalable solutions"*
 
-I create mainly **AI-powered SaaS platforms** and **financial technology solutions** with a focus on **security, scalability, and clean architecture**. From Flask API development to WEB3 payment integration, helping businesses automate processes and build MVP to robust digital Products.
+Full-Stack & AI Developer skilled in building secure, functional applications for startups. I focus on delivering clear value, such as creating automation scripts that save hours of manual work or building clean dashboards that make data easy to understand.
+
+My toolkit includes JavaScript, React, Node.js, Python (Flask), and AI-powered automation.
+
+I build efficiently, communicate proactively, and ensure the solution fits your specific needs whether it's a quick MVP feature, workflow automation, or a data visualization tool..
 
 ---
 
