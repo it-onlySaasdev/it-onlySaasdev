@@ -18,11 +18,15 @@
 
 > *"Transforming complex business problems into simple, scalable solutions"*
 
-Full-Stack & AI Developer skilled in building secure, functional applications for startups. I focus on delivering clear value, such as creating automation scripts that save hours of manual work or building clean dashboards that make data easy to understand.
+Full-Stack Developer specializing in helping small businesses and startups build and improve their web platforms.
+I focus on creating clean, functional features that solve real problems — whether that’s setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
 
-My toolkit includes JavaScript, React, Node.js, Python (Flask), and AI-powered automation.
-
-I build efficiently, communicate proactively, and ensure the solution fits your specific needs whether it's a quick MVP feature, workflow automation, or a data visualization tool..
+Here’s how I can help you today:
+✔️ Add or fix payment systems (Stripe, PayPal)
+✔️ Build or customize e-commerce features on Shopify, WooCommerce, or with React
+✔️ Create internal tools and dashboards to visualize data
+✔️ Improve site security and performance
+✔️ Develop small MVPs or prototypes quickly and clearly
 
 ---
 
