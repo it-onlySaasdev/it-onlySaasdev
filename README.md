@@ -18,7 +18,7 @@
 
 > *"Transforming complex business problems into simple, scalable solutions"*
 
-Full-Stack Developer specializing in helping small businesses and startups build and improve their web platforms.
+I only specialize in helping small businesses and startups build and improve their web platforms.
 I focus on creating clean, functional features that solve real problems — whether that’s setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
 
 Here’s how I can help you today:
