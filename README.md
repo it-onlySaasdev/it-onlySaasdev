@@ -91,13 +91,6 @@ Here’s how I can help you today:
 
 ---
 
-##  📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=it-onlySaasdev&show_icons=true&theme=radical)](https://github.com/it-onlySaasdev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=it-onlySaasdev&layout=compact&theme=radical)](https://github.com/it-onlySaasdev)
 
 <!-- REAL-TIME TRACKING PIXEL - Don't remove this line -->
 <img src="https://tracker.itsvg.in/pixel?id=it-onlySaasdev" width="1" height="1" />
