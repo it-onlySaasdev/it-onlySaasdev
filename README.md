@@ -15,9 +15,6 @@
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=it-onlySaasdev&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=it-onlySaasdev&theme=radical&no-frame=true&row=2&column=4" width="100%" alt="GitHub Trophies" />
-
 <!-- Wakatime Stats (Optional - if you use Wakatime) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=it-onlySaasdev&theme=radical&hide_border=true" width="100%" alt="Wakatime Stats" /> -->
 
