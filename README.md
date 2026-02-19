@@ -9,6 +9,26 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=it-onlySaasdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=it-onlySaasdev&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-onlySaasdev&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=it-onlySaasdev&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=it-onlySaasdev&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+<!-- Trophy Stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=it-onlySaasdev&theme=radical&no-frame=true&row=2&column=4" width="100%" alt="GitHub Trophies" />
+
+<!-- Wakatime Stats (Optional - if you use Wakatime) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=it-onlySaasdev&theme=radical&hide_border=true" width="100%" alt="Wakatime Stats" /> -->
+
+</div>
+
 <div align="center">
 
 # Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
@@ -21,7 +41,7 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 > *"Transforming complex business problems into simple, scalable solutions"*
 
@@ -39,9 +59,9 @@ Here’s how I can help you today:
 
 <div align="center">
 
-##  Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
-###  AI & Machine Learning
+### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -56,14 +76,14 @@ Here’s how I can help you today:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-###  WEB3 & Blockchain
+### 🔗 WEB3 & Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
 
-###  Frontend & UX 
+### 🎨 Frontend & UX 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -93,17 +113,12 @@ Here’s how I can help you today:
 
 </div>
 
----
-
-
 <!-- REAL-TIME TRACKING PIXEL - Don't remove this line -->
 <img src="https://tracker.itsvg.in/pixel?id=it-onlySaasdev" width="1" height="1" />
 
-</div>
+## 🚀 What I Deliver
 
-##  What I Deliver
-
-###  Custom Solutions
+### 💼 Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
 - **Payment Integration** – Stripe, PayPal, Crypto, and custom payment gateways
@@ -111,14 +126,14 @@ Here’s how I can help you today:
 - **Smart Contract Development** – Secure, audited blockchain solutions
 - **API Development** – RESTful & GraphQL APIs with comprehensive documentation
 
-###  Security & Compliance
+### 🔒 Security & Compliance
 - **Bank-level security** for financial applications
 - **Secure authentication** (OAuth2, JWT, Web3 Auth)
 - **Data encryption** at rest and in transit
 - **Smart contract security audits**
 - **GDPR & compliance-ready solutions**
 
-###  Development Philosophy
+### 📐 Development Philosophy
 - **Clean Architecture** – SOLID principles, separation of concerns
 - **Test-Driven Development** – Comprehensive testing suites
 - **CI/CD Pipelines** – Automated deployment workflows
@@ -127,7 +142,7 @@ Here’s how I can help you today:
 
 ---
 
-##  My Development Process
+## 📊 My Development Process
 
 ```mermaid
 graph TD
