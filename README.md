@@ -9,14 +9,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=it-onlySaasdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=it-onlySaasdev&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-onlySaasdev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-
-</div>
-
 <div align="center">
 
 # Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
