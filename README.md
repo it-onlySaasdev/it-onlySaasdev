@@ -2,12 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/it-onlySaasdev/it-onlySaasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<!-- VISITOR TRACKING SECTION - Added without disrupting your layout -->
-<div align="center">
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=it-onlySaasdev&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![GitHub Traffic](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Visitors&query=count&url=https%3A%2F%2Fraw.githubusercontent.com%2Fit-onlySaasdev%2Fit-onlySaasdev%2Fmain%2Fvisitor-counter.json&style=flat-square)](https://github.com/it-onlySaasdev)
-[![Repo Views](https://img.shields.io/badge/Track%20Clicks-Click%20Here-blue?style=flat-square)](https://analytics.itsvg.in/github/it-onlySaasdev)
 
 </div>
 
