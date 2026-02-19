@@ -9,12 +9,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=it-onlySaasdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=it-onlySaasdev&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-onlySaasdev&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=it-onlySaasdev&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 
@@ -59,9 +53,9 @@ Here’s how I can help you today:
 
 <div align="center">
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -116,9 +110,9 @@ Here’s how I can help you today:
 <!-- REAL-TIME TRACKING PIXEL - Don't remove this line -->
 <img src="https://tracker.itsvg.in/pixel?id=it-onlySaasdev" width="1" height="1" />
 
-## 🚀 What I Deliver
+##  What I Deliver
 
-### 💼 Custom Solutions
+### Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
 - **Payment Integration** – Stripe, PayPal, Crypto, and custom payment gateways
@@ -126,7 +120,7 @@ Here’s how I can help you today:
 - **Smart Contract Development** – Secure, audited blockchain solutions
 - **API Development** – RESTful & GraphQL APIs with comprehensive documentation
 
-### 🔒 Security & Compliance
+### Security & Compliance
 - **Bank-level security** for financial applications
 - **Secure authentication** (OAuth2, JWT, Web3 Auth)
 - **Data encryption** at rest and in transit
@@ -142,7 +136,7 @@ Here’s how I can help you today:
 
 ---
 
-## 📊 My Development Process
+##  My Development Process
 
 ```mermaid
 graph TD
