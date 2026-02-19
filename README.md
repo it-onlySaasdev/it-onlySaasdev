@@ -1,8 +1,16 @@
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/it-onlySaasdev/it-onlySaasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<div align="center">
+
+# Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
+
+[![Email](https://img.shields.io/badge/Email-idowu.tobi.saas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-tobi-a67199264)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ItOnlySaaSdev)
 
 </div>
+
+<br clear="both">
 
 <div align="center">
   
@@ -17,16 +25,6 @@
 
 <!-- Wakatime Stats (Optional - if you use Wakatime) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=it-onlySaasdev&theme=radical&hide_border=true" width="100%" alt="Wakatime Stats" /> -->
-
-</div>
-
-<div align="center">
-
-# Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
-
-[![Email](https://img.shields.io/badge/Email-idowu.tobi.saas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-tobi-a67199264)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ItOnlySaaSdev)
 
 </div>
 
