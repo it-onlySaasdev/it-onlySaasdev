@@ -38,8 +38,7 @@ I only interested on helping small businesses and startups build and improve the
 I focus on creating clean, functional features that solve real problems — whether that’s setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
 
 Here’s how I can help you today:
-✔️ Add or fix payment systems (PayStack, Stripe, PayPal)
-✔️ Build or customize e-commerce features on Shopify, WooCommerce, or with React
+✔️ Build or customize e-commerce features on Shopify, or with React
 ✔️ Create internal tools and dashboards to visualize data
 ✔️ Improve site security and performance
 ✔️ Develop small MVPs or prototypes quickly and clearly
@@ -110,14 +109,12 @@ Here’s how I can help you today:
 ### Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
-- **Payment Integration** – PayStack, Stripe, PayPal, Crypto, and custom payment gateways
-- **Data Pipelines** – ETL processes, API integrations, and financial data aggregation
 - **Smart Contract Development** – Secure, audited blockchain solutions
 - **API Development** – RESTful & GraphQL APIs with comprehensive documentation
 
 ### Security & Compliance
 - **Bank-level security** for financial applications
-- **Secure authentication** (OAuth2, JWT, Web3 Auth)
+- **Secure authentication** (OAuth2, JWT)
 - **Data encryption** at rest and in transit
 - **Smart contract security audits**
 - **GDPR & compliance-ready solutions**
