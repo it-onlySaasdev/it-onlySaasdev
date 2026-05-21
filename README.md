@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Full Stack AI Developer • Flask APIs • WEB3 Payment Solutions • Scalable dApps
+# FullStack AI Automation | n8n | Make | Zapier | Monday | Webhook
 
 [![Email](https://img.shields.io/badge/Email-idowu.tobi.saas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowu.tobi.saas.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-tobi-a67199264)
