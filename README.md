@@ -64,13 +64,6 @@ Here’s how I can help you today:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-###  WEB3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
-
 ###  Frontend & UX 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -109,7 +102,6 @@ Here’s how I can help you today:
 ### Custom Solutions
 - **Financial Dashboards & Admin Panels** – Real-time analytics and management tools
 - **AI-Powered Automation** – Email parsing, document processing, intelligent reporting
-- **Smart Contract Development** – Secure, audited blockchain solutions
 - **API Development** – RESTful & GraphQL APIs with comprehensive documentation
 
 ### Security & Compliance
