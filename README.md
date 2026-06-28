@@ -32,7 +32,7 @@
 
 ## About Me
 
-> *"Transforming complex business problems into simple, scalable solutions"*
+> *"Make business feels more effortless and focus on growth"*
 
 I only interested on helping small businesses and startups build and improve their web platforms.
 I focus on creating clean, functional features that solve real problems — whether that’s setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
