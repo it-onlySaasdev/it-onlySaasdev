@@ -35,7 +35,7 @@
 > *"Make business feels more effortless and focus on growth"*
 
 I only interested on helping businesses and startups build MVP and improve their web platforms.
-Connect on creating clean, functional features that solve real problems, whether is setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
+Connect tools that solve real problems, whether is setting up secure payments, building dashboards to track sales, or fixing bugs that slow down your site.
 
 Here’s how I can help you today:
 ✔️ Build or customize e-commerce features on Shopify, or with React
